@@ -11,8 +11,7 @@
       url: https://www.deepl.com
       description: 全世界最准确的翻译。
     - title: 世界时钟
-      qrcode: images/qrcodes/24timezones.png
-      logo: images/logos/deepl.png
+      logo: images/qrcodes/24timezones.png
       url: https://24timezones.com/#/map
       description: 现在世界各地是什么时间
     - title: UI中国
