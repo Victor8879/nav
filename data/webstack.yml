@@ -6,7 +6,7 @@
       logo: 
       url: https://bbs.fobshanghai.com/
       description: 中国老牌专业外贸论坛，致力于打造最实用的外贸社区。
-    - title: Deepl
+    - title: DeepL
       logo: images/logos/deepl.png
       url: https://www.deepl.com/
       description: 全世界最准确的翻译。
@@ -31,7 +31,7 @@
     - title: 全球展会查询
       url: https://10times.com/
       description: 可查询全球所有即将举行的贸易展览，包含活动参展商与组织者等全面的信息介绍。
-    - title: Signalhire
+    - title: 客户背调神器
       logo:  
       url: https://www.signalhire.com/
       description: 最佳个人邮箱查找工具，通过一项信息找到客户的各项维度信息，外贸背调神器。
@@ -53,6 +53,9 @@
     - title: 海外版企查查
       url: https://opencorporates.com/
       description: 海外版企查查，可查询国外公司信息。
+    - title: 贸发局经贸研究专栏
+      url: https://research.hktdc.com/sc/
+      description: 香港贸发局支援中国内地企业「出海」，以及协助海外企业拓展亚洲及其他地区的业务。
    
 - taxonomy: 建站与平台
   icon: fa-globe
