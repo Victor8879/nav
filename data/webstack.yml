@@ -7,14 +7,14 @@
       url: https://dribbble.com/
       description: 全球UI设计师作品分享平台。
     - title:Deepl
-      logo: logo: images/logos/deepl.png
+      logo: images/logos/deepl.png
       url: https://www.deepl.com
       description: 全世界最准确的翻译。
-    - title: 二维码演示
-      qrcode: images/qrcodes/cli.png
-      logo: 
-      url: https://cli.im/url
-      description: 二维码演示，手机扫一扫，也可以点击
+    - title: 世界时钟
+      qrcode: images/qrcodes/24timezones.png
+      logo: images/logos/deepl.png
+      url: https://24timezones.com/#/map
+      description: 现在世界各地是什么时间
     - title: UI中国
       url: https://www.ui.cn/
       description: 图形交互与界面设计交流、作品展示、学习平台。
