@@ -41,16 +41,16 @@
     - title: 海关查询
       url: https://online.customs.gov.cn/mySearch/
       description: 各项中国海关数据，这里都可以查。
-      - title: 海关查询
-      url: https://online.customs.gov.cn/mySearch/
-      description: 各项中国海关数据，这里都可以查。
-      - title: 船舶查询
-      url: https://www.chinaports.com/shiptracker/
+    - title: 物流单号购买
+      url: https://http://www.18track.cn/
+      description: 你需要的各种单号都可以这里买。
+    - title: 船舶查询
+      url: https://ship.chinaports.com/
       description: 船舶动态跟踪查询。
-      - title: 国际小包查询
+    - title: 国际小包查询
       url: https://www.17track.net/
       description: 支持查询全球3200+运输商、190+航司。
-      - title: 海外版企查查
+    - title: 海外版企查查
       url: https://opencorporates.com/
       description: 海外版企查查，可查询国外公司信息。
    
